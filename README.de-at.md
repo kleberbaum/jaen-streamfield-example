@@ -56,7 +56,7 @@
         - [IndexField](#indexfield)
     - [Blöcke](#blöcke)
 - [🐞 Wie man einen Bug meldet oder eine Neuerung beantragt](#-wie-man-einen-bug-meldet-oder-eine-neuerung-beantragt)
-- [🤝 Selbst beitragen](#-selbst-beitragen)
+- [🤝 Selbst mitwirken](#-selbst-mitwirken)
 - [💚 Danksagung](#-danksagung)
 - [💼 Schöpfer](#-schöpfer)
 - [🤔 FAQs](#-faqs)
@@ -64,7 +64,7 @@
 
 ## [](#-motivation)💪 Motivation
 
-Ein CMS **sollte nicht** der definierende Teil einer Webapp sein. Auch Ecommerce sollte das nicht weder etwas anderes als Ihr Code.
+Ein CMS **sollte nicht** der definierende Teil einer Webapp sein. Auch Ecommerce sollte das nicht noch etwas anderes als Ihr Code.
 ERP Integration **sollte** den Entwickler **nicht** dazu zwingen Kurven zu schneiden.
 
 - Jaen **wird Ihr** Nutzererlebnis **nicht** beeinträchtigen.
@@ -438,69 +438,79 @@ export default Block
 Haben Sie einen Bug gefunden oder haben Sie eine Idee für einen neuen Bestandteil? Bitte sehen Sie zuvor in den offenen und geschlossenen Issues nach, ob Ihr Problem schon behandelt wurde.
 Wenn Sie den Bug oder die Idee darin nicht finden [öffnen Sie bitte ein neues Issue](https://github.com/snek-at/jaen/issues/new/choose).
 
-## [](#-selbst-beitragen)🤝 Selbst beitragen
+## [](#-selbst-mitwirken)🤝 Selbst mitwirken
 ![GitHub letzter Commit](https://img.shields.io/github/last-commit/snek-at/jaen)
 ![GitHub Issues](https://img.shields.io/github/issues-raw/snek-at/jaen)
 ![GitHub geschlossene Issues](https://img.shields.io/github/issues-closed-raw/snek-at/jaen?color=green)
 
 Bitte lesen Sie unsere
-[Contibutions Guidlines](https://github.com/snek-at/jaen/blob/master/CONTRIBUTING.md). Included are
-directions for opening issues, coding standards, and notes on development.
+[Contibutions Guidlines](https://github.com/snek-at/jaen/blob/master/CONTRIBUTING.md).
+Darin werden Sie die Anleitungen zum öffnen von Issues, die Code Standards und Notizen zur Entwicklung finden.
 
-All code should conform to the [Code Guide](https://github.com/snek-at/tonic/blob/master/STYLE_GUIDE.md), maintained by
-[snek-at](https://github.com/snek-at).
+Der Code sollte unserem [Code Guide](https://github.com/snek-at/tonic/blob/master/STYLE_GUIDE.md) entsprechen, der von
+[snek-at](https://github.com/snek-at) aktuell gehalten wird.
 
-## [](#-thanks)💚 Thanks
+## [](#-danksagung)💚 Danksagung
 
-We do not have any external contributors yet, but if you want your name to be here, feel free
-to [contribute to our project](#contributing).
+Wir haben noch keine externen Entwickler. Um Ihren Namen hier zu sehen, [tragen Sie zu unserem Projekt bei](#-sebst-beitragen).
 
-## [](#-creators)💼 Creators
+## [](#-schöpfer)💼 Schöpfer
 
 <table border="0">
     <tr>
 	 <td>
-	    <a href="https://github.com/schettn">
-		<img src="https://avatars.githubusercontent.com/schettn?s=100" alt="Avatar schettn">
-	     </a>
-	</td>
-        <td>
-    	    <a href="https://github.com/kleberbaum">
-    	        <img src="https://avatars.githubusercontent.com/kleberbaum?s=100" alt="Avatar kleberbaum">
-          </a>
-        </td>
-    </tr>
-    <tr>
-	<td><a href="https://github.com/schettn">Nico Schett</a></td>
-        <td><a href="https://github.com/kleberbaum">Florian Kleber</a></td>
-    </tr>
+      <a href="https://github.com/schettn">
+        <img src="https://avatars.githubusercontent.com/schettn?s=100" alt="Avatar schettn">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kleberbaum">
+        <img src="https://avatars.githubusercontent.com/kleberbaum?s=100" alt="Avatar kleberbaum">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kleberbaum">
+        <img src="https://avatars.githubusercontent.com/petute?s=100" alt="Avatar petute">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/schettn">Nico Schett</a>
+    </td>
+    <td>
+      <a href="https://github.com/kleberbaum">Florian Kleber</a>
+    </td>
+    <td>
+      <a href="https://github.com/petute">Daniel Petutschnigg</a>
+    </td>
+  </tr>
 </table>
 
 ## [](#-faqs)🤔 FAQs
-**Q:** What do the roadmap categories mean?
-* Shipped - Hopefully you are enjoying it! Give us feedback on how it is working!
-* Almost There - We are applying the finishing touches. Things in this bucket you can expect to be shipped within 2-4 weeks. 
-* We're Writing the Code - Actively in development, we are trying to get this out to you in a good state as soon as we can.
-* Investigating - We're thinking about it. This might mean we're still designing, or thinking through how this might work. This is a great phase to send how you want to see something implemented! We'd love to see your usecase or design ideas here.
+**Q:** Was bedeuten die Roadmap Kategorien?
+* Fertig - Hoffentlich haben Sie spaß damit. Hinterlassen Sie uns eine Rückmeldung über Ihre Erfahrungen!
+* Fast geschafft - Wir sind dabei die letzten Änderungen vorzunehmen. Die Features in dieser kategorie können in den nächsten 2-4 Wochen erwartet werden.
+* Wir arbeiten daran - Die Entwicklung hat gestartet. Wir arbeiten daran es so schnell und gut wie möglich zu vervollständigen.
+* In Planung - Wir denken darüber nach. Dies kann bedeuten, dass wir schon designen oder das wir noch darüber nachdenken wie es funktionieren könnte. Diese Phase ist ein guter Zeitpunkt um vorzuschlagen, wie Sie gern ein Feature sehen würden und um Design Ideen einzureichen. 
 
-**Q:** Why are there no dates on your roadmap?
+**Q:** Warum sind auf der Roadmap keine Termine?
 
-**A:** Because we know things change and we want the room to do the right thing by fixing security issues as they come up or helping people out where they need. This means we might have to change our priorities and don’t want to let people down. 
+**A:** Auf der Roadmap sind keine Termine, da wir wissen, dass sich die Umstände ändern können und wir wollen den Spielraum um Sicherheitsprobleme zu lösen oder Nutzer zu untersützen. Manchmal müssen wir daher unsere Prioritäten ändern und wolen es aber gerne vermeiden Nutzer zu enttäuschen.
 
-**Q:** How can I provide feedback or ask for more information?
+**Q:** Wie kann ich eine Rückmeldung hinterlassen oder mehr Information erhalten?
 
-**A:** Please open an issue in this repo! If the issue is a bug or security issue, please follow the separate instructions above.
+**A:** Bitte öffnen Sie ein Issue! Wenn das Issue einen Bug oder ein Sicherheitsproblem betrifft beachten Sie bitte die oben stehnden Anleitung.
 
-**Q:** How can I request a feature be added to the roadmap?
+**Q:** Wie kann ich ein Feature für die Roadmap beantragen?
 
-**A:** Please open an issue! You can read about how to contribute [here](https://github.com/snek-at/jaen/blob/master/CONTRIBUTING.MD). Community submitted issues will be tagged "Proposed" and will be reviewed by the team.
+**A:** Bitte öffnen Sie ein Issue! Sie können [hier](https://github.com/snek-at/jaen/blob/master/CONTRIBUTING.MD) nachlesen was beim mitwirken zu beachten ist. Issues von der Community werden mit dem Tag "Proposed" gekennzeichnet und werden vom Team überprüft.
 
-## [](#-copyright-and-license)📝 Copyright and License
+## [](#-urheberrechte-und-lizent)📝 Urheberrechte und Lizenz
 
-![GitHub repository license](https://img.shields.io/badge/license-EUPL--1.2-blue)
+![GitHub Repository Lizenz](https://img.shields.io/badge/license-EUPL--1.2-blue)
 
-Use of this source code is governed by an EUPL-1.2 license that can be found
-in the LICENSE file at https://snek.at/license
+Das nutzen dieses SourceCodes wird von der EUPL-1.2 Lizenz bestimmt sie ist in der LICENSE Datei unter https://snek.at/license zu finden.
 
 <!--
   SPDX-FileCopyrightText: Copyright © 2021 snek.at

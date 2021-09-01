@@ -7,8 +7,8 @@
 <h3 align="center">Snek Jaen-Template</h3>
 
 <p align="center">
-  This is the official jaen template provided by snek-at.
-  Featuring Jaen the free, sexy and cutting edge CMS framework for ReactJS.
+  This is the official Jaen[ˈdʒæn] template provided by snek-at.
+  Featuring Jaen the free, hot and secure CMS framework for ReactJS.
   <br>
   <br>
   <cite>"A bowl is most useful when it is empty."</cite> - Lao Tzu
@@ -449,34 +449,46 @@ to [contribute to our project](#contributing).
 ## [](#-creators)💼 Creators
 
 <table border="0">
-    <tr>
-	 <td>
-	    <a href="https://github.com/schettn">
-		<img src="https://avatars.githubusercontent.com/schettn?s=100" alt="Avatar schettn">
-	     </a>
-	</td>
-        <td>
-    	    <a href="https://github.com/kleberbaum">
-    	        <img src="https://avatars.githubusercontent.com/kleberbaum?s=100" alt="Avatar kleberbaum">
-          </a>
-        </td>
-    </tr>
-    <tr>
-	<td><a href="https://github.com/schettn">Nico Schett</a></td>
-        <td><a href="https://github.com/kleberbaum">Florian Kleber</a></td>
-    </tr>
+  <tr>
+	  <td>
+      <a href="https://github.com/schettn">
+        <img src="https://avatars.githubusercontent.com/schettn?s=100" alt="Avatar schettn">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kleberbaum">
+        <img src="https://avatars.githubusercontent.com/kleberbaum?s=100" alt="Avatar kleberbaum">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kleberbaum">
+        <img src="https://avatars.githubusercontent.com/petute?s=100" alt="Avatar petute">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/schettn">Nico Schett</a>
+    </td>
+    <td>
+      <a href="https://github.com/kleberbaum">Florian Kleber</a>
+    </td>
+    <td>
+      <a href="https://github.com/petute">Daniel Petutschnigg</a>
+    </td>
+  </tr>
 </table>
 
 ## [](#-faqs)🤔 FAQs
 **Q:** What do the roadmap categories mean?
 * Shipped - Hopefully you are enjoying it! Give us feedback on how it is working!
-* Almost There - We are applying the finishing touches. Things in this bucket you can expect to be shipped within 2-4 weeks. 
+* Almost There - We are applying the finishing touches. Things in this bucket you can expect to be shipped within 2-4 weeks.
 * We're Writing the Code - Actively in development, we are trying to get this out to you in a good state as soon as we can.
 * Investigating - We're thinking about it. This might mean we're still designing, or thinking through how this might work. This is a great phase to send how you want to see something implemented! We'd love to see your usecase or design ideas here.
 
 **Q:** Why are there no dates on your roadmap?
 
-**A:** Because we know things change and we want the room to do the right thing by fixing security issues as they come up or helping people out where they need. This means we might have to change our priorities and don’t want to let people down. 
+**A:** Because we know things change and we want the room to do the right thing by fixing security issues as they come up or helping people out where they need. This means we might have to change our priorities and don’t want to let people down.
 
 **Q:** How can I provide feedback or ask for more information?
 
