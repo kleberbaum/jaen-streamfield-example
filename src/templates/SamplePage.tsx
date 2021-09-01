@@ -1,4 +1,4 @@
-import {fields} from '@snek-at/jaen-pages'
+import {fields} from '@snek-at/jaen-pages/src'
 import type {JaenTemplate} from '@snek-at/jaen-pages/src/types'
 
 const SamplePage: JaenTemplate = () => {
